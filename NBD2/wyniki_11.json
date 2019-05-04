@@ -1,0 +1,47 @@
+{ "acknowledged" : true, "matchedCount" : 86, "modifiedCount" : 86 }
+
+{
+        "_id" : ObjectId("5ccd968e5faa35540a29c8ff"),
+        "sex" : "Male",
+        "first_name" : "Johnny",
+        "last_name" : "Bailey",
+        "job" : "Editor",
+        "location" : {
+                "city" : "Petite Rivière de Nippes",
+                "address" : {
+                        "streetname" : "East",
+                        "streetnumber" : "813"
+                }
+        },
+        "description" : "felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus",
+        "height" : 162.13,
+        "weight" : 73.44,
+        "birth_date" : "1943-03-09T15:51:01Z",
+        "nationality" : "Haiti",
+        "credit" : [
+                {
+                        "type" : "mastercard",
+                        "number" : "5369640182927100",
+                        "currency" : "BRL",
+                        "balance" : "4627.56"
+                },
+                {
+                        "type" : "diners-club-enroute",
+                        "number" : "3562057946902743",
+                        "currency" : "USD",
+                        "balance" : "5222.47"
+                },
+                {
+                        "type" : "jcb",
+                        "number" : "3577771311966058",
+                        "currency" : "CNY",
+                        "balance" : "6124.75"
+                },
+                {
+                        "type" : "laser",
+                        "number" : "3529421575892819",
+                        "currency" : "ARS",
+                        "balance" : "5167.99"
+                }
+        ]
+}
