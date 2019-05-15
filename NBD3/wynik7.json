@@ -1,0 +1,31 @@
+	
+[
+  {
+    "keys": [
+      "m"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 163,
+          "high": 0
+        },
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "title": "Captain America: The First Avenger",
+          "tagline": "blablabla",
+          "released": {
+            "low": 2011,
+            "high": 0
+          }
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "m": 0
+    }
+  }
+]

@@ -1,0 +1,45 @@
+1. MATCH (hugo:Person {name: "Hugo Weaving"})-[:ACTED_IN]->(hugoWeavingMovies) RETURN hugo,hugoWeavingMovies
+2. MATCH (hugo:Person {name:"Hugo Weaving"})-[:ACTED_IN]->(m)<-[:DIRECTED]-(directors) RETURN directors
+3. MATCH (hugo:Person {name:"Hugo Weaving"})-[:ACTED_IN]->(m)<-[:ACTED_IN]-(coActors) RETURN coActors
+4. MATCH (people:Person)-[:ACTED_IN]-(movie:Movie) WITH people, count(movie) AS movie_count  WHERE movie_count > 0  RETURN people, movie_count
+5. MATCH (p:Person)-[:WROTE|:DIRECTED]-(m:Movie) RETURN p, m.title
+6. MATCH (hugo {name: "Hugo Weaving"})-[:ACTED_IN]->(m:Movie)<-[:ACTED_IN]-(kiany {name: "Keanu Reeves"}) RETURN m
+7. 
+CREATE (CaptainAmericaTheFirstAvenger:Movie {title:'Captain America: The First Avenger', released:2011, tagline:'blablabla'})
+CREATE (JoeJohnston:Person {name: 'Joe Johnston', born:1950})
+CREATE (ChristopherMarkus:Person {name: 'Christopher Markus', born:1970})
+CREATE (ChrisEvans:Person {name: 'Chris Evans', born:1981})
+CREATE (StMcFeely:Person {name: 'Stephen McFeely', born:1970})
+CREATE (Hugo:Person {name:'Hugo Weaving', born:1960})
+
+CREATE
+(JoeJohnston)-[:DIRECTED]->(CaptainAmericaTheFirstAvenger), 
+(ChristopherMarkus)-[:WROTE]->(CaptainAmericaTheFirstAvenger),
+(ChrisEvans)-[:ACTED_IN {roles:['Captain America']}]->(CaptainAmericaTheFirstAvenger),
+(StMcFeely)-[:WROTE]->(CaptainAmericaTheFirstAvenger),
+(Hugo)-[:ACTED_IN {roles:['Red scale']}]->(CaptainAmericaTheFirstAvenger)
+
+8.
+MATCH p=(a)-[r*]->(b)
+WHERE a.name = 'Darjeeling'
+AND b.name = 'Sandakphu'
+RETURN p AS route
+9.
+MATCH p=shortestPath((a)-[r*]->(b))
+WHERE a.name = 'Darjeeling'
+AND b.name = 'Sandakphu'
+WITH p,relationships(p) AS r, length(relationships(p)) AS count
+ORDER BY count
+LIMIT 1
+RETURN p AS route
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
