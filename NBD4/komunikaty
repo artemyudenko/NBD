@@ -1,0 +1,24 @@
+Location object created for person object
+StoreValue operation created
+Client object successfully created
+Object storage operation successfully completed
+
+Object is successfully loaded from DB
+{location: {namespace: {type: default, bucket: s12676}, key: MyPerson}, values: [RiakObject{contentType: application/json, value: {"name":"Artem","surname":"Yudenko","student":true,"age":22}, riakIndexes: RiakIndexes{indexes: {}}, links: RiakLinks{links: []}, userMeta: RiakUserMetadata{meta: {}}, vtag: 5jUiKWZi9WQJFncZhqLdxe, isDeleted: false, isModified: false, vclock: com.basho.riak.client.api.cap.BasicVClock@57168f1a, lastModified: 1558295702050}]}
+Person : name 'Artem', surname 'Yudenko', student true, age 22}
+
+Object is successfully updated
+
+Object is successfully loaded from DB
+{location: {namespace: {type: default, bucket: s12676}, key: MyPerson}, values: [RiakObject{contentType: application/json, value: {"name":"NewName","surname":"Yudenko","student":true,"age":22}, riakIndexes: RiakIndexes{indexes: {}}, links: RiakLinks{links: []}, userMeta: RiakUserMetadata{meta: {}}, vtag: 6oGFdzQcuW6B3nclr0yseT, isDeleted: false, isModified: false, vclock: com.basho.riak.client.api.cap.BasicVClock@2d4d2998, lastModified: 1558295702159}]}
+Person : name 'NewName', surname 'Yudenko', student true, age 22}
+
+Object is successfully deleted
+
+Object is successfully loaded from DB
+{location: {namespace: {type: default, bucket: s12676}, key: MyPerson}, values: []}
+There is no such an object in the db
+null
+
+
+Process finished with exit code 0
