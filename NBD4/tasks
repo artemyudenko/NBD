@@ -1,0 +1,13 @@
+1.
+curl -X PUT  http://localhost:8098/buckets/s12676/keys/artem -H "Content-Type:application/json" -d '{"name" : "Artem","surname" : "Yudenko","student" : true,"age" : 22}' -i
+curl -X PUT  http://localhost:8098/buckets/s12676/keys/person1 -H "Content-Type:application/json" -d '{"name" : "Person","surname" : "PersonSurname","student" : false,"age" : 32}' -i
+curl -X PUT  http://localhost:8098/buckets/s12676/keys/person2 -H "Content-Type:application/json" -d '{"name" : "Person1","surname" : "PersonSurname1","student" : false,"age" : 42}' -i
+curl -X PUT  http://localhost:8098/buckets/s12676/keys/person3 -H "Content-Type:application/json" -d '{"name" : "Person2","surname" : "PersonSurname2","student" : true,"age" : 12}' -i
+curl -X PUT  http://localhost:8098/buckets/s12676/keys/person4 -H "Content-Type:application/json" -d '{"name" : "Person3","surname" : "PersonSurname3","student" : true,"age" : 23}' -i
+
+2. curl http://localhost:8098/buckets/s12676/keys/artem -i
+3. curl -X PUT  http://localhost:8098/buckets/s12676/keys/person4 -H "Content-Type:application/json" -d '{"name" : "Person3","surname" : "PersonSurname3","student" : true,"age" : 23, job: "someJob"}' -i
+
+
+
+
