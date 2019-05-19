@@ -7,6 +7,13 @@ curl -X PUT  http://localhost:8098/buckets/s12676/keys/person4 -H "Content-Type:
 
 2. curl http://localhost:8098/buckets/s12676/keys/artem -i
 3. curl -X PUT  http://localhost:8098/buckets/s12676/keys/person4 -H "Content-Type:application/json" -d '{"name" : "Person3","surname" : "PersonSurname3","student" : true,"age" : 23, job: "someJob"}' -i
+4. curl -X PUT  http://localhost:8098/buckets/s12676/keys/person1 -H "Content-Type:application/json" -d '{"name" : "Person","surname" : "PersonSurname","student" : false}' -i
+5. curl -X PUT  http://localhost:8098/buckets/s12676/keys/person3 -H "Content-Type:application/json" -d '{"name" : "Person2","surname" : "PersonSurname2","student" : true,"age" : 544}' -i
+6. curl -X DELETE http://localhost:8098/buckets/s12676/keys/person2 -i
+7. curl http://localhost:8098/buckets/s12676/keys/person2 -i
+8. curl -X POST  http://localhost:8098/buckets/s12676/keys -H "Content-Type:application/json" -d '{"name" : "Person1"}' -i
+9. curl http://localhost:8098/buckets/s12676/keys/OJ9ebZHTrdwDprsiqejXclCOZbR -i
+10. curl -X DELETE http://localhost:8098/buckets/s12676/keys/OJ9ebZHTrdwDprsiqejXclCOZbR -i
 
 
 
