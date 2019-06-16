@@ -1,0 +1,579 @@
+	
+[
+  {
+    "keys": [
+      "paths"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 170,
+            "high": 0
+          },
+          "labels": [
+            "town"
+          ],
+          "properties": {
+            "name": "Darjeeling"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 181,
+            "high": 0
+          },
+          "labels": [
+            "peak"
+          ],
+          "properties": {
+            "name": "Sandakphu",
+            "altitude": "12400 ft"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 170,
+                "high": 0
+              },
+              "labels": [
+                "town"
+              ],
+              "properties": {
+                "name": "Darjeeling"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 241,
+                "high": 0
+              },
+              "start": {
+                "low": 170,
+                "high": 0
+              },
+              "end": {
+                "low": 169,
+                "high": 0
+              },
+              "type": "PublicTransport",
+              "properties": {
+                "name": "Darjeeling-Rimbik",
+                "winter": "true",
+                "distance": {
+                  "low": 15,
+                  "high": 0
+                },
+                "summer": "true"
+              }
+            },
+            "end": {
+              "identity": {
+                "low": 169,
+                "high": 0
+              },
+              "labels": [
+                "town"
+              ],
+              "properties": {
+                "name": "Rimbik"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 169,
+                "high": 0
+              },
+              "labels": [
+                "town"
+              ],
+              "properties": {
+                "name": "Rimbik"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 244,
+                "high": 0
+              },
+              "start": {
+                "low": 169,
+                "high": 0
+              },
+              "end": {
+                "low": 180,
+                "high": 0
+              },
+              "type": "trek",
+              "properties": {
+                "name": "Rimbik-BhikeBhanja",
+                "winter": "true",
+                "distance": {
+                  "low": 18,
+                  "high": 0
+                },
+                "summer": "true"
+              }
+            },
+            "end": {
+              "identity": {
+                "low": 180,
+                "high": 0
+              },
+              "labels": [
+                "village"
+              ],
+              "properties": {
+                "name": "BhikeBhanja"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 180,
+                "high": 0
+              },
+              "labels": [
+                "village"
+              ],
+              "properties": {
+                "name": "BhikeBhanja"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 245,
+                "high": 0
+              },
+              "start": {
+                "low": 180,
+                "high": 0
+              },
+              "end": {
+                "low": 181,
+                "high": 0
+              },
+              "type": "trek",
+              "properties": {
+                "name": "BhikeBhanja-Sandakphu",
+                "winter": "true",
+                "distance": {
+                  "low": 4,
+                  "high": 0
+                },
+                "summer": "true"
+              }
+            },
+            "end": {
+              "identity": {
+                "low": 181,
+                "high": 0
+              },
+              "labels": [
+                "peak"
+              ],
+              "properties": {
+                "name": "Sandakphu",
+                "altitude": "12400 ft"
+              }
+            }
+          }
+        ],
+        "length": 3
+      }
+    ],
+    "_fieldLookup": {
+      "paths": 0
+    }
+  },
+  {
+    "keys": [
+      "paths"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 170,
+            "high": 0
+          },
+          "labels": [
+            "town"
+          ],
+          "properties": {
+            "name": "Darjeeling"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 181,
+            "high": 0
+          },
+          "labels": [
+            "peak"
+          ],
+          "properties": {
+            "name": "Sandakphu",
+            "altitude": "12400 ft"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 170,
+                "high": 0
+              },
+              "labels": [
+                "town"
+              ],
+              "properties": {
+                "name": "Darjeeling"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 242,
+                "high": 0
+              },
+              "start": {
+                "low": 170,
+                "high": 0
+              },
+              "end": {
+                "low": 169,
+                "high": 0
+              },
+              "type": "road",
+              "properties": {
+                "name": "Darjeeling-Rimbik",
+                "winter": "true",
+                "distance": {
+                  "low": 15,
+                  "high": 0
+                },
+                "summer": "true"
+              }
+            },
+            "end": {
+              "identity": {
+                "low": 169,
+                "high": 0
+              },
+              "labels": [
+                "town"
+              ],
+              "properties": {
+                "name": "Rimbik"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 169,
+                "high": 0
+              },
+              "labels": [
+                "town"
+              ],
+              "properties": {
+                "name": "Rimbik"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 244,
+                "high": 0
+              },
+              "start": {
+                "low": 169,
+                "high": 0
+              },
+              "end": {
+                "low": 180,
+                "high": 0
+              },
+              "type": "trek",
+              "properties": {
+                "name": "Rimbik-BhikeBhanja",
+                "winter": "true",
+                "distance": {
+                  "low": 18,
+                  "high": 0
+                },
+                "summer": "true"
+              }
+            },
+            "end": {
+              "identity": {
+                "low": 180,
+                "high": 0
+              },
+              "labels": [
+                "village"
+              ],
+              "properties": {
+                "name": "BhikeBhanja"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 180,
+                "high": 0
+              },
+              "labels": [
+                "village"
+              ],
+              "properties": {
+                "name": "BhikeBhanja"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 245,
+                "high": 0
+              },
+              "start": {
+                "low": 180,
+                "high": 0
+              },
+              "end": {
+                "low": 181,
+                "high": 0
+              },
+              "type": "trek",
+              "properties": {
+                "name": "BhikeBhanja-Sandakphu",
+                "winter": "true",
+                "distance": {
+                  "low": 4,
+                  "high": 0
+                },
+                "summer": "true"
+              }
+            },
+            "end": {
+              "identity": {
+                "low": 181,
+                "high": 0
+              },
+              "labels": [
+                "peak"
+              ],
+              "properties": {
+                "name": "Sandakphu",
+                "altitude": "12400 ft"
+              }
+            }
+          }
+        ],
+        "length": 3
+      }
+    ],
+    "_fieldLookup": {
+      "paths": 0
+    }
+  },
+  {
+    "keys": [
+      "paths"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 170,
+            "high": 0
+          },
+          "labels": [
+            "town"
+          ],
+          "properties": {
+            "name": "Darjeeling"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 181,
+            "high": 0
+          },
+          "labels": [
+            "peak"
+          ],
+          "properties": {
+            "name": "Sandakphu",
+            "altitude": "12400 ft"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 170,
+                "high": 0
+              },
+              "labels": [
+                "town"
+              ],
+              "properties": {
+                "name": "Darjeeling"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 243,
+                "high": 0
+              },
+              "start": {
+                "low": 170,
+                "high": 0
+              },
+              "end": {
+                "low": 169,
+                "high": 0
+              },
+              "type": "trek",
+              "properties": {
+                "name": "Darjeeling-Rimbik",
+                "winter": "true",
+                "distance": {
+                  "low": 15,
+                  "high": 0
+                },
+                "summer": "true"
+              }
+            },
+            "end": {
+              "identity": {
+                "low": 169,
+                "high": 0
+              },
+              "labels": [
+                "town"
+              ],
+              "properties": {
+                "name": "Rimbik"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 169,
+                "high": 0
+              },
+              "labels": [
+                "town"
+              ],
+              "properties": {
+                "name": "Rimbik"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 244,
+                "high": 0
+              },
+              "start": {
+                "low": 169,
+                "high": 0
+              },
+              "end": {
+                "low": 180,
+                "high": 0
+              },
+              "type": "trek",
+              "properties": {
+                "name": "Rimbik-BhikeBhanja",
+                "winter": "true",
+                "distance": {
+                  "low": 18,
+                  "high": 0
+                },
+                "summer": "true"
+              }
+            },
+            "end": {
+              "identity": {
+                "low": 180,
+                "high": 0
+              },
+              "labels": [
+                "village"
+              ],
+              "properties": {
+                "name": "BhikeBhanja"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 180,
+                "high": 0
+              },
+              "labels": [
+                "village"
+              ],
+              "properties": {
+                "name": "BhikeBhanja"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 245,
+                "high": 0
+              },
+              "start": {
+                "low": 180,
+                "high": 0
+              },
+              "end": {
+                "low": 181,
+                "high": 0
+              },
+              "type": "trek",
+              "properties": {
+                "name": "BhikeBhanja-Sandakphu",
+                "winter": "true",
+                "distance": {
+                  "low": 4,
+                  "high": 0
+                },
+                "summer": "true"
+              }
+            },
+            "end": {
+              "identity": {
+                "low": 181,
+                "high": 0
+              },
+              "labels": [
+                "peak"
+              ],
+              "properties": {
+                "name": "Sandakphu",
+                "altitude": "12400 ft"
+              }
+            }
+          }
+        ],
+        "length": 3
+      }
+    ],
+    "_fieldLookup": {
+      "paths": 0
+    }
+  }
+]

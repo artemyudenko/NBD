@@ -1,0 +1,24 @@
+	
+[
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 221,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  }
+]

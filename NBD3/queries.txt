@@ -24,22 +24,66 @@ MATCH p=(a)-[r*]->(b)
 WHERE a.name = 'Darjeeling'
 AND b.name = 'Sandakphu'
 RETURN p AS route
+
 9.
-MATCH p=shortestPath((a)-[r*]->(b))
+MATCH p=shortestPath((a:town{name:'Darjeeling'})-[r*]->(b:peak{name:'Sandakphu'}))
+RETURN p AS route
+
+10.
+MATCH (darjeeling { name: 'Darjeeling' }),(sandakphu { name: 'Sandakphu' }), 
+    paths = allShortestPaths((darjeeling)-[*]-(sandakphu))
+WHERE ALL (p IN relationships(paths) WHERE p.winter = "true")
+RETURN paths
+11.
+MATCH p=((a)-[r*]->(b))
 WHERE a.name = 'Darjeeling'
 AND b.name = 'Sandakphu'
 WITH p,relationships(p) AS r, length(relationships(p)) AS count
 ORDER BY count
-LIMIT 1
 RETURN p AS route
-10.
-11.
 12.
+MATCH (p:town{name:'Darjeeling'})-[r:twowheeler*{summer:'true'}]-(t) RETURN DISTINCT(r)
 13.
+MATCH (p:town{name:'Darjeeling'})-[r:twowheeler*{summer:'true'}]-(t) RETURN t
 14.
+MATCH (a)<-[:ORIGIN]-(f:Flight)
+WITH a.name AS Airport, f.airline AS Airline, count(f) AS total
+ORDER BY total, Airport, Airline DESC
+RETURN Airport, Airline, total
 15.
+MATCH path = (origin:Airport { name:"LAX" })<-[r:ORIGIN|DESTINATION*..2]->(destination:Airport)
+WHERE ALL(f IN [n IN NODES(path) WHERE 'Flight' IN LABELS(n)]
+  WHERE [(f)<-[:ASSIGN]-(ticket) | ticket.price < 3000][0])
+RETURN path
 16.
+MATCH (f:Flight)-[:ORIGIN]-(a:Airport { name:'LAX' })
+WITH f
+MATCH (t:Ticket)-[:ASSIGN]-(f)-[r:ORIGIN|DESTINATION*..5]-(d:Airport{name:'DAY'})
+RETURN d.name, t.price,  f.airline
+ORDER BY t.price
 17.
+MATCH (f:Flight)-[:ORIGIN]-(a:Airport { name:'LAX' })
+WITH f
+MATCH (t:Ticket)-[:ASSIGN]-(f)-[r:ORIGIN|DESTINATION*..5]-(d:Airport{name:'DAY'})
+RETURN d.name, t.price,  f.airline
+ORDER BY t.price ASC
+LIMIT 1
 18.
+MATCH (f:Flight)-[:ORIGIN]-(a:Airport { name:'LAX' })
+WITH f
+MATCH (t:Ticket { class:'business' })-[:ASSIGN]-(f)-[r:ORIGIN|DESTINATION*..5]-(d:Airport{name:'DAY'})
+RETURN d.name, t.price,  f.airline
+ORDER BY t.price ASC
+LIMIT 1
 19.
+MATCH (a)<-[:DESTINATION|ORIGIN]-(f:Flight)-[:ASSIGN]-(t:Ticket)
+WITH a.name AS Airport, f.airline AS Airline
+ORDER BY Airport
+RETURN DISTINCT(Airport), Airline
 20.
+MATCH (f:Flight)-[:ORIGIN]-(a:Airport)
+WITH f
+MATCH (t:Ticket)-[:ASSIGN]-(f)-[r:ORIGIN|DESTINATION*..1]-(d:Airport)
+RETURN d.name, t.price,  f.airline
+ORDER BY t.price ASC
+LIMIT 1

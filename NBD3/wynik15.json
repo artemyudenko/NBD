@@ -1,0 +1,5541 @@
+	
+[
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1065,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "FAT"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2123,
+                "high": 0
+              },
+              "start": {
+                "low": 1979,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1979,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 11:50:27",
+                "duration": {
+                  "low": 41,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1979,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 11:50:27",
+                "duration": {
+                  "low": 41,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2122,
+                "high": 0
+              },
+              "start": {
+                "low": 1979,
+                "high": 0
+              },
+              "end": {
+                "low": 1065,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1065,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "FAT"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1049,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAS"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1772,
+                "high": 0
+              },
+              "start": {
+                "low": 1699,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1699,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/29/2015 07:39:45",
+                "duration": {
+                  "low": 40,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 236,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1699,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/29/2015 07:39:45",
+                "duration": {
+                  "low": 40,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 236,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1773,
+                "high": 0
+              },
+              "start": {
+                "low": 1699,
+                "high": 0
+              },
+              "end": {
+                "low": 1049,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1049,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAS"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1043,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SLC"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2073,
+                "high": 0
+              },
+              "start": {
+                "low": 1939,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1939,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 19:37:59",
+                "duration": {
+                  "low": 101,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 590,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1939,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 19:37:59",
+                "duration": {
+                  "low": 101,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 590,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2072,
+                "high": 0
+              },
+              "start": {
+                "low": 1939,
+                "high": 0
+              },
+              "end": {
+                "low": 1043,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1043,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "SLC"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1064,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2162,
+                "high": 0
+              },
+              "start": {
+                "low": 2011,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2011,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 17:17:15",
+                "duration": {
+                  "low": 88,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2011,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 17:17:15",
+                "duration": {
+                  "low": 88,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2163,
+                "high": 0
+              },
+              "start": {
+                "low": 2011,
+                "high": 0
+              },
+              "end": {
+                "low": 1064,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ABQ"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1047,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "HNL"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1808,
+                "high": 0
+              },
+              "start": {
+                "low": 1727,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1727,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/29/2015 19:27:56",
+                "duration": {
+                  "low": 279,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 2556,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1727,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/29/2015 19:27:56",
+                "duration": {
+                  "low": 279,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 2556,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1807,
+                "high": 0
+              },
+              "start": {
+                "low": 1727,
+                "high": 0
+              },
+              "end": {
+                "low": 1047,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1047,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "HNL"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1065,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "FAT"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2133,
+                "high": 0
+              },
+              "start": {
+                "low": 1987,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1987,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 01:28:01",
+                "duration": {
+                  "low": 39,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1987,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 01:28:01",
+                "duration": {
+                  "low": 39,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2132,
+                "high": 0
+              },
+              "start": {
+                "low": 1987,
+                "high": 0
+              },
+              "end": {
+                "low": 1065,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1065,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "FAT"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1037,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SMF"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2197,
+                "high": 0
+              },
+              "start": {
+                "low": 2039,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2039,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 12:26:52",
+                "duration": {
+                  "low": 65,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 373,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2039,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 12:26:52",
+                "duration": {
+                  "low": 65,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 373,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2198,
+                "high": 0
+              },
+              "start": {
+                "low": 2039,
+                "high": 0
+              },
+              "end": {
+                "low": 1037,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1037,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "SMF"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1064,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2167,
+                "high": 0
+              },
+              "start": {
+                "low": 2015,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2015,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 15:15:29",
+                "duration": {
+                  "low": 83,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2015,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 15:15:29",
+                "duration": {
+                  "low": 83,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2168,
+                "high": 0
+              },
+              "start": {
+                "low": 2015,
+                "high": 0
+              },
+              "end": {
+                "low": 1064,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ABQ"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1064,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2102,
+                "high": 0
+              },
+              "start": {
+                "low": 1963,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1963,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 15:09:13",
+                "duration": {
+                  "low": 84,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1963,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 15:09:13",
+                "duration": {
+                  "low": 84,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2103,
+                "high": 0
+              },
+              "start": {
+                "low": 1963,
+                "high": 0
+              },
+              "end": {
+                "low": 1064,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ABQ"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1065,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "FAT"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2147,
+                "high": 0
+              },
+              "start": {
+                "low": 1999,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1999,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 02:27:11",
+                "duration": {
+                  "low": 38,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1999,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 02:27:11",
+                "duration": {
+                  "low": 38,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2148,
+                "high": 0
+              },
+              "start": {
+                "low": 1999,
+                "high": 0
+              },
+              "end": {
+                "low": 1065,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1065,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "FAT"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1043,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SLC"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2058,
+                "high": 0
+              },
+              "start": {
+                "low": 1927,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1927,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 19:03:40",
+                "duration": {
+                  "low": 90,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 590,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1927,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 19:03:40",
+                "duration": {
+                  "low": 90,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 590,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2057,
+                "high": 0
+              },
+              "start": {
+                "low": 1927,
+                "high": 0
+              },
+              "end": {
+                "low": 1043,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1043,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "SLC"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1065,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "FAT"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2152,
+                "high": 0
+              },
+              "start": {
+                "low": 2003,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2003,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 15:13:55",
+                "duration": {
+                  "low": 42,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2003,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 15:13:55",
+                "duration": {
+                  "low": 42,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2153,
+                "high": 0
+              },
+              "start": {
+                "low": 2003,
+                "high": 0
+              },
+              "end": {
+                "low": 1065,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1065,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "FAT"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1035,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SFO"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1540,
+                "high": 0
+              },
+              "start": {
+                "low": 1523,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1523,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/29/2015 02:42:54",
+                "duration": {
+                  "low": 55,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 337,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1523,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/29/2015 02:42:54",
+                "duration": {
+                  "low": 55,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 337,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1539,
+                "high": 0
+              },
+              "start": {
+                "low": 1523,
+                "high": 0
+              },
+              "end": {
+                "low": 1035,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1035,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "SFO"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1025,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "EWR"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1627,
+                "high": 0
+              },
+              "start": {
+                "low": 1583,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1583,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/29/2015 23:11:39",
+                "duration": {
+                  "low": 267,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 2454,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1583,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/29/2015 23:11:39",
+                "duration": {
+                  "low": 267,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 2454,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1628,
+                "high": 0
+              },
+              "start": {
+                "low": 1583,
+                "high": 0
+              },
+              "end": {
+                "low": 1025,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1025,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "EWR"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1043,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SLC"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2068,
+                "high": 0
+              },
+              "start": {
+                "low": 1935,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1935,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 07:53:13",
+                "duration": {
+                  "low": 88,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 590,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1935,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 07:53:13",
+                "duration": {
+                  "low": 88,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 590,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2067,
+                "high": 0
+              },
+              "start": {
+                "low": 1935,
+                "high": 0
+              },
+              "end": {
+                "low": 1043,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1043,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "SLC"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1031,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ORD"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1125,
+                "high": 0
+              },
+              "start": {
+                "low": 1175,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1175,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/30/2015 23:33:29",
+                "duration": {
+                  "low": 233,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 1744,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1175,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/30/2015 23:33:29",
+                "duration": {
+                  "low": 233,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 1744,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1124,
+                "high": 0
+              },
+              "start": {
+                "low": 1175,
+                "high": 0
+              },
+              "end": {
+                "low": 1031,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1031,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ORD"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1026,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "IAH"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "start": {
+                "low": 1127,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1127,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/30/2015 13:20:16",
+                "duration": {
+                  "low": 145,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 1379,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1127,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/30/2015 13:20:16",
+                "duration": {
+                  "low": 145,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 1379,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1065,
+                "high": 0
+              },
+              "start": {
+                "low": 1127,
+                "high": 0
+              },
+              "end": {
+                "low": 1026,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1026,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "IAH"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1065,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "FAT"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2142,
+                "high": 0
+              },
+              "start": {
+                "low": 1995,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1995,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 09:18:34",
+                "duration": {
+                  "low": 39,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1995,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 09:18:34",
+                "duration": {
+                  "low": 39,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2143,
+                "high": 0
+              },
+              "start": {
+                "low": 1995,
+                "high": 0
+              },
+              "end": {
+                "low": 1065,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1065,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "FAT"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1065,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "FAT"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2128,
+                "high": 0
+              },
+              "start": {
+                "low": 1983,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1983,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 00:11:49",
+                "duration": {
+                  "low": 48,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1983,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 00:11:49",
+                "duration": {
+                  "low": 48,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2127,
+                "high": 0
+              },
+              "start": {
+                "low": 1983,
+                "high": 0
+              },
+              "end": {
+                "low": 1065,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1065,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "FAT"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1043,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SLC"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2063,
+                "high": 0
+              },
+              "start": {
+                "low": 1931,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1931,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 19:44:50",
+                "duration": {
+                  "low": 92,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 590,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1931,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 19:44:50",
+                "duration": {
+                  "low": 92,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 590,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2062,
+                "high": 0
+              },
+              "start": {
+                "low": 1931,
+                "high": 0
+              },
+              "end": {
+                "low": 1043,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1043,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "SLC"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1064,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2088,
+                "high": 0
+              },
+              "start": {
+                "low": 1951,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1951,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 23:13:12",
+                "duration": {
+                  "low": 117,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1951,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 23:13:12",
+                "duration": {
+                  "low": 117,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2087,
+                "high": 0
+              },
+              "start": {
+                "low": 1951,
+                "high": 0
+              },
+              "end": {
+                "low": 1064,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ABQ"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1066,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "TUS"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2172,
+                "high": 0
+              },
+              "start": {
+                "low": 2019,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2019,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 05:51:42",
+                "duration": {
+                  "low": 63,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 451,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2019,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 05:51:42",
+                "duration": {
+                  "low": 63,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 451,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2173,
+                "high": 0
+              },
+              "start": {
+                "low": 2019,
+                "high": 0
+              },
+              "end": {
+                "low": 1066,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1066,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "TUS"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1037,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SMF"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2202,
+                "high": 0
+              },
+              "start": {
+                "low": 2043,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2043,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 05:06:26",
+                "duration": {
+                  "low": 67,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 373,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2043,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 05:06:26",
+                "duration": {
+                  "low": 67,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 373,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2203,
+                "high": 0
+              },
+              "start": {
+                "low": 2043,
+                "high": 0
+              },
+              "end": {
+                "low": 1037,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1037,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "SMF"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1065,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "FAT"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2137,
+                "high": 0
+              },
+              "start": {
+                "low": 1991,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1991,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 11:45:25",
+                "duration": {
+                  "low": 37,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1991,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 11:45:25",
+                "duration": {
+                  "low": 37,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2138,
+                "high": 0
+              },
+              "start": {
+                "low": 1991,
+                "high": 0
+              },
+              "end": {
+                "low": 1065,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1065,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "FAT"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1064,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2093,
+                "high": 0
+              },
+              "start": {
+                "low": 1955,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1955,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 12:18:38",
+                "duration": {
+                  "low": 100,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1955,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 12:18:38",
+                "duration": {
+                  "low": 100,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2092,
+                "high": 0
+              },
+              "start": {
+                "low": 1955,
+                "high": 0
+              },
+              "end": {
+                "low": 1064,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ABQ"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1064,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2083,
+                "high": 0
+              },
+              "start": {
+                "low": 1947,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1947,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 11:36:48",
+                "duration": {
+                  "low": 102,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1947,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 11:36:48",
+                "duration": {
+                  "low": 102,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2082,
+                "high": 0
+              },
+              "start": {
+                "low": 1947,
+                "high": 0
+              },
+              "end": {
+                "low": 1064,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ABQ"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1066,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "TUS"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2183,
+                "high": 0
+              },
+              "start": {
+                "low": 2027,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2027,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 19:39:36",
+                "duration": {
+                  "low": 73,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 451,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2027,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 19:39:36",
+                "duration": {
+                  "low": 73,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 451,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2182,
+                "high": 0
+              },
+              "start": {
+                "low": 2027,
+                "high": 0
+              },
+              "end": {
+                "low": 1066,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1066,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "TUS"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1064,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2097,
+                "high": 0
+              },
+              "start": {
+                "low": 1959,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1959,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 04:43:56",
+                "duration": {
+                  "low": 90,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1959,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 04:43:56",
+                "duration": {
+                  "low": 90,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2098,
+                "high": 0
+              },
+              "start": {
+                "low": 1959,
+                "high": 0
+              },
+              "end": {
+                "low": 1064,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ABQ"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1064,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2107,
+                "high": 0
+              },
+              "start": {
+                "low": 1967,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1967,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 05:43:58",
+                "duration": {
+                  "low": 89,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1967,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/1/2015 05:43:58",
+                "duration": {
+                  "low": 89,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2108,
+                "high": 0
+              },
+              "start": {
+                "low": 1967,
+                "high": 0
+              },
+              "end": {
+                "low": 1064,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ABQ"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1064,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2078,
+                "high": 0
+              },
+              "start": {
+                "low": 1943,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1943,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 16:40:54",
+                "duration": {
+                  "low": 100,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1943,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 16:40:54",
+                "duration": {
+                  "low": 100,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2077,
+                "high": 0
+              },
+              "start": {
+                "low": 1943,
+                "high": 0
+              },
+              "end": {
+                "low": 1064,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ABQ"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1037,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SMF"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2207,
+                "high": 0
+              },
+              "start": {
+                "low": 2047,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2047,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 13:44:40",
+                "duration": {
+                  "low": 62,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 373,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2047,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 13:44:40",
+                "duration": {
+                  "low": 62,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 373,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2208,
+                "high": 0
+              },
+              "start": {
+                "low": 2047,
+                "high": 0
+              },
+              "end": {
+                "low": 1037,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1037,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "SMF"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1065,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "FAT"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2118,
+                "high": 0
+              },
+              "start": {
+                "low": 1975,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1975,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 05:08:02",
+                "duration": {
+                  "low": 41,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1975,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/4/2015 05:08:02",
+                "duration": {
+                  "low": 41,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 209,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2117,
+                "high": 0
+              },
+              "start": {
+                "low": 1975,
+                "high": 0
+              },
+              "end": {
+                "low": 1065,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1065,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "FAT"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1064,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2112,
+                "high": 0
+              },
+              "start": {
+                "low": 1971,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1971,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 21:46:43",
+                "duration": {
+                  "low": 86,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1971,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 21:46:43",
+                "duration": {
+                  "low": 86,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2113,
+                "high": 0
+              },
+              "start": {
+                "low": 1971,
+                "high": 0
+              },
+              "end": {
+                "low": 1064,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ABQ"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1066,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "TUS"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2188,
+                "high": 0
+              },
+              "start": {
+                "low": 2031,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2031,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 00:00:13",
+                "duration": {
+                  "low": 74,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 451,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2031,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 00:00:13",
+                "duration": {
+                  "low": 74,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 451,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2187,
+                "high": 0
+              },
+              "start": {
+                "low": 2031,
+                "high": 0
+              },
+              "end": {
+                "low": 1066,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1066,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "TUS"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1025,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "EWR"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1104,
+                "high": 0
+              },
+              "start": {
+                "low": 1159,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1159,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/30/2015 08:14:49",
+                "duration": {
+                  "low": 258,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 2454,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1159,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/30/2015 08:14:49",
+                "duration": {
+                  "low": 258,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 2454,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1105,
+                "high": 0
+              },
+              "start": {
+                "low": 1159,
+                "high": 0
+              },
+              "end": {
+                "low": 1025,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1025,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "EWR"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1031,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ORD"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1778,
+                "high": 0
+              },
+              "start": {
+                "low": 1703,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1703,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/29/2015 07:19:35",
+                "duration": {
+                  "low": 241,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 1744,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 1703,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/29/2015 07:19:35",
+                "duration": {
+                  "low": 241,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 1744,
+                  "high": 0
+                },
+                "airline": "19977"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1777,
+                "high": 0
+              },
+              "start": {
+                "low": 1703,
+                "high": 0
+              },
+              "end": {
+                "low": 1031,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1031,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ORD"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1064,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2157,
+                "high": 0
+              },
+              "start": {
+                "low": 2007,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2007,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 23:26:29",
+                "duration": {
+                  "low": 86,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2007,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/3/2015 23:26:29",
+                "duration": {
+                  "low": 86,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 677,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2158,
+                "high": 0
+              },
+              "start": {
+                "low": 2007,
+                "high": 0
+              },
+              "end": {
+                "low": 1064,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1064,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ABQ"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1066,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "TUS"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2177,
+                "high": 0
+              },
+              "start": {
+                "low": 2023,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2023,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 09:52:31",
+                "duration": {
+                  "low": 64,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 451,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2023,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 09:52:31",
+                "duration": {
+                  "low": 64,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 451,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2178,
+                "high": 0
+              },
+              "start": {
+                "low": 2023,
+                "high": 0
+              },
+              "end": {
+                "low": 1066,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1066,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "TUS"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  },
+  {
+    "keys": [
+      "path"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 1029,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAX"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 1037,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SMF"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 1029,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "LAX"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2192,
+                "high": 0
+              },
+              "start": {
+                "low": 2035,
+                "high": 0
+              },
+              "end": {
+                "low": 1029,
+                "high": 0
+              },
+              "type": "ORIGIN",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 2035,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 11:49:17",
+                "duration": {
+                  "low": 61,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 373,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 2035,
+                "high": 0
+              },
+              "labels": [
+                "Flight"
+              ],
+              "properties": {
+                "date": "11/2/2015 11:49:17",
+                "duration": {
+                  "low": 61,
+                  "high": 0
+                },
+                "distance": {
+                  "low": 373,
+                  "high": 0
+                },
+                "airline": "20304"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2193,
+                "high": 0
+              },
+              "start": {
+                "low": 2035,
+                "high": 0
+              },
+              "end": {
+                "low": 1037,
+                "high": 0
+              },
+              "type": "DESTINATION",
+              "properties": {}
+            },
+            "end": {
+              "identity": {
+                "low": 1037,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "SMF"
+              }
+            }
+          }
+        ],
+        "length": 2
+      }
+    ],
+    "_fieldLookup": {
+      "path": 0
+    }
+  }
+]

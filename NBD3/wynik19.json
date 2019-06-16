@@ -1,0 +1,1308 @@
+	
+[
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "ABQ",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "ATL",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "ATL",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "AUS",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "AUS",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "AZO",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "BDL",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "BHM",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "BIL",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "BNA",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "BOS",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "BWI",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "BZN",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "CLT",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "CMH",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "CRP",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "CVG",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "DAY",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "DCA",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "DEN",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "DFW",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "DFW",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "DLH",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "DTW",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "EWR",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "FAR",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "FAT",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "FLL",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "FSD",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "GRR",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "HNL",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "IAD",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "IAH",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "IAH",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "IND",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "KOA",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "LAS",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "LAX",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "LAX",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "LGA",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MCI",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MCO",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MEM",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MFE",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MIA",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MIA",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MOB",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MOT",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MSN",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MSP",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MSP",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "MSY",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "OKC",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "OMA",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "OMA",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "ORD",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "ORD",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "ORF",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "ORF",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "PBI",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "PDX",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "PHX",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "PHX",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "PIT",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "PIT",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "PSP",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "RIC",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "RNO",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "ROC",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "RSW",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SAN",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SAT",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SBN",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SEA",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SEA",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SFO",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SFO",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SGF",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SJC",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SLC",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SLC",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SMF",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SMF",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "SNA",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "TPA",
+      "19977"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "TUL",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  },
+  {
+    "keys": [
+      "Airport",
+      "Airline"
+    ],
+    "length": 2,
+    "_fields": [
+      "TUS",
+      "20304"
+    ],
+    "_fieldLookup": {
+      "Airport": 0,
+      "Airline": 1
+    }
+  }
+]

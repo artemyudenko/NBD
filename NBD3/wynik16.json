@@ -1,0 +1,6558 @@
+	
+[
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      165.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      165.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      165.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      165.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      165.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      165.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      165.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      165.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      165.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      165.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      166.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      166.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      166.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      166.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      166.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      167.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      167.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      167.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      167.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      167.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      186.75,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      186.75,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      186.75,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      186.75,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      186.75,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 221,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 221,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 221,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 221,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 221,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 221,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 221,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 221,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 221,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 221,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 222,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 222,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 222,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 222,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 222,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 223,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 223,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 223,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 223,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 223,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 249,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 249,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 249,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 249,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 249,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      265.2,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      265.2,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      265.2,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      265.2,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      265.2,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      265.2,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      265.2,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      265.2,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      265.2,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      265.2,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      266.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      266.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      266.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      266.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      266.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      267.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      267.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      267.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      267.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      267.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      294.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      294.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      294.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      294.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      294.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      294.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      294.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      294.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      294.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      294.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      295.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      295.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      295.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      295.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      295.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      296.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      296.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      296.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      296.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      296.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      298.8,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      298.8,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      298.8,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      298.8,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      298.8,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      354,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      354,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      354,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      354,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      354,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      354,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      354,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      354,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      354,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      354,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 393,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 393,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 393,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 393,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 393,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 393,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 393,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 393,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 393,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 393,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 394,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 394,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 394,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 394,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 394,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 395,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 395,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 395,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 395,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 395,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      471.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      471.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      471.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      471.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      471.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      471.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      471.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      471.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      471.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      471.59999999999997,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 472,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 472,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 472,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 472,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 472,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 472,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 472,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 472,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 472,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 472,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      472.79999999999995,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      472.79999999999995,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      472.79999999999995,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      472.79999999999995,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      472.79999999999995,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      474,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      474,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      474,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      474,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      474,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      528.75,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      529.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      529.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      529.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      529.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      529.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      529.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      529.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      529.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      529.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      529.5,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      530.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      530.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      530.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      530.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      530.25,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      566.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      566.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      566.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      566.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      566.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      566.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      566.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      566.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      566.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      566.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 704,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 704,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 704,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 704,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 704,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 705,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 706,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 706,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 706,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 706,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 706,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 706,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 706,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 706,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 706,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 706,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 707,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 707,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 707,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 707,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 707,
+        "high": 0
+      },
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      844.8,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      844.8,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      844.8,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      844.8,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      844.8,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      846,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      847.1999999999999,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      847.1999999999999,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      847.1999999999999,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      847.1999999999999,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      847.1999999999999,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      847.1999999999999,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      847.1999999999999,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      847.1999999999999,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      847.1999999999999,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      847.1999999999999,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      848.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      848.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      848.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      848.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      848.4,
+      "20304"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1070.25,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1070.25,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1070.25,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1070.25,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1070.25,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1344.75,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1344.75,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1344.75,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1344.75,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1344.75,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 1427,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 1427,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 1427,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 1427,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 1427,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1712.3999999999999,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1712.3999999999999,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1712.3999999999999,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1712.3999999999999,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1712.3999999999999,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 1793,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 1793,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 1793,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 1793,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 1793,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1905,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1905,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1905,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1905,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1905,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1907.25,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1907.25,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1907.25,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1907.25,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      1907.25,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      2025,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      2025,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      2025,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      2025,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      2025,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      2151.6,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      2151.6,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      2151.6,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      2151.6,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      2151.6,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2540,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2540,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2540,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2540,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2540,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2543,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2543,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2543,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2543,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2543,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2700,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2700,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2700,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2700,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      {
+        "low": 2700,
+        "high": 0
+      },
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3048,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3048,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3048,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3048,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3048,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3051.6,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3051.6,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3051.6,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3051.6,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3051.6,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3240,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3240,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3240,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3240,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  },
+  {
+    "keys": [
+      "d.name",
+      "t.price",
+      "f.airline"
+    ],
+    "length": 3,
+    "_fields": [
+      "DAY",
+      3240,
+      "19977"
+    ],
+    "_fieldLookup": {
+      "d.name": 0,
+      "t.price": 1,
+      "f.airline": 2
+    }
+  }
+]
